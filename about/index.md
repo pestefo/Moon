@@ -1,37 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Contact
+tags: [about, sobre mi, pestefo, pablo estefo, oficina, beauchef]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://taylantatli.github.io/Moon">Hi, I'm <b>Pablo Estefó</b></a> and I am currently doing a PhD on Software Engineering for Robotics.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Contact info
+You can e-mail me to <b>pestefo@gmail.com</b> or phisically to Beauchef 851, of. BP-P311, Santiago, Chile (ZIPCODE: 8370456).
+I belong to the <a href="http://rych.dcc.uchile.cl">RyCh Lab</a> of the <a href="http://dcc.uchile.cl">Computer Science Department</a> of the <a href="http://www.uchile.cl">Universidad de Chile</a>.
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Research Interests
+* Software Engineering for Robotics
+* Software Visualization
+* Software Ecosystems
+* Program Comprehension
+* Empirical Software Engineering
